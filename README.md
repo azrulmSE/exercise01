@@ -6,4 +6,5 @@
 - cherry pick                       ✅
 - log                               ✅
 - stash                             ✅
+- credential manager                ✅
 - tip & trick                       ✅
