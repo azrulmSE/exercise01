@@ -5,4 +5,5 @@
 - rebase head                       ✅
 - cherry pick                       ✅
 - log                               ✅
+- stash                             ✅
 - tip & trick                       ✅
