@@ -5,6 +5,6 @@
 - rebase head                       ✅
 - cherry pick                       ✅
 - log                               ✅
-- stash                             ✅
+- stash                             ✅ 
 - credential manager                ✅
 - tip & trick                       ✅
