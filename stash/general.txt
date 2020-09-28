@@ -4,3 +4,6 @@ $ git stash                 // save code and revert to recent commit
 $ git stash apply           // return back the save code to recent commit 
 $ git list                  // list out code that have been stash 
 $ git stash push -m "..."   // save code and put title on 
+$ git stash clear           // clear all save code 
+$ git stash pop {n}         // view the save code base on number from list 
+
