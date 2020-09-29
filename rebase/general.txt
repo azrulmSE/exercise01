@@ -1,4 +1,4 @@
 Rebase 🙄
 =========
 $ git rebase master                 // add latest changes  on master to feature branch (currently in feature branch)
-$ git merge --squash feature        // merge the last commit from feature with master branch
+$ git merge --squash feature        // merge the last commit from feature with master branch (not commit yet)
