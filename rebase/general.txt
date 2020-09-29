@@ -1,2 +1,3 @@
 Rebase 🙄
 =========
+$ git rebase master         // add latest changes  on master to feature branch (currently in brancesh)
