@@ -8,3 +8,4 @@
 - stash                             ✅ 
 - credential manager                ✅
 - tip & trick                       ✅
+- revert commit to previous         ✅
