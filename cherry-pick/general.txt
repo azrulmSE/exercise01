@@ -1,2 +1,11 @@
 Cherry Pick 
 ===========
+URL:    
+Situation use:
+    -> bring in changes from a specific commit
+    -> choose one or more commits 
+    -> as known as merge action (unless put -n for not commit)
+$ git cherry-pick fe94978           // git will pick those source code from this commit id and implement to this current branch by direct commit
+$ git checkout -                    // change to previous branch
+$ git cherry-pick fe94978 -n        // pick source code without commit (n stand for no commit)
+$ git show fe94978                  // can view the source code to pick 1st before use cherry-pick 
