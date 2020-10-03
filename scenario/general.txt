@@ -1,0 +1,12 @@
+Scenario 💫
+===========
+
+Tag
+---
+1. What if you want to use certain of tag version if the latest one have issue?
+Solution:
+$ git fetch --all --tags --prune        // --all will fetch all the remotes. | --tags will fetch all tags as well
+$ git tag                               // list out tag
+
+$ git checkout tags/<tag> -b <branch>   // checkout into those tag version
+$ git checkout tags/v1.0 -b v1.0-branch
